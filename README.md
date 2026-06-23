@@ -1,4 +1,4 @@
-# FitAura – AI-Powered Fitness Tracker & Predictor
+# FitAura: AI-Powered Fitness Tracker & Predictor
 
 Full-stack desktop fitness analytics system developed with C++, Qt, Python, and Machine Learning, featuring fitness scoring, personalized recommendations, and 14-day fitness forecasting.
 
@@ -213,7 +213,7 @@ Forecasts the next 14 days for:
 ---
 
 ---
-## Documentation
+## Documentation:
 
 > For a detailed overview of the project architecture, features, and implementation, refer to the full documentation.
 
