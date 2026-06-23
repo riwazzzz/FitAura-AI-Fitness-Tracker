@@ -66,7 +66,6 @@ Generate Report
  │
  ▼
 Display the result in the GUI Layer (Qt)
-
 ```
 
 ---
@@ -214,10 +213,11 @@ Forecasts the next 14 days for:
 ---
 
 ---
+## Documentation
 
-## Documentation:
+> For a detailed overview of the project architecture, features, and implementation, refer to the full documentation.
 
-![Documentation](assets/FitAura_Documentation.pdf)
+-> **[Click here to view Documentation](assets/FitAura_Documentation.pdf)**
 
 ---
 
