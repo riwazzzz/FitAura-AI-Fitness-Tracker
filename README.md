@@ -96,16 +96,16 @@ FitAura/
 
 ## Object-Oriented Design:
 
-### User Class
+### User Class:
 Responsible for storing user-related information.
 
-### FitnessLog Class
+### FitnessLog Class:
 Stores and manages daily fitness records.
 
-### Tracker Class
+### Tracker Class:
 Processes fitness data, calculates scores, and generates recommendations.
 
-### AppController Class
+### AppController Class:
 Handles application flow and user authentication.
 
 ---
@@ -198,15 +198,15 @@ Forecasts the next 14 days for:
 
 ## Screenshots:
 
-### Welcome Page
+### Welcome Page:
 
 ![Welcome Page](assets/Welcomepage.png)
 
-### Homepage
+### Homepage:
 
 ![Homepage](assets/Homepage.jpg)
 
-### Summary Page
+### Summary Page:
 
 ![Summary Page](assets/Summarypage.jpg)
 
