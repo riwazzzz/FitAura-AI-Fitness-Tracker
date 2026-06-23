@@ -41,22 +41,32 @@ The project demonstrates the integration of traditional software engineering pri
 
 ---
 
-## System Architecture:
+## System Workflow:
 
 ```text
-User
+User Login
  │
  ▼
-GUI Layer (Qt)
+Input Fitness Metrics
  │
  ▼
-C++ Backend
+Fitness Score Calculation
  │
  ▼
-Python Machine Learning Engine
+Generate Recommendations
  │
  ▼
-Predictions & Reports
+Run Machine Learning Model
+ │
+ ▼
+Predict Future Trends
+ │
+ ▼
+Generate Report
+ │
+ ▼
+Display the result in the GUI Layer (Qt)
+
 ```
 
 ---
@@ -116,18 +126,22 @@ Used to predict future values for:
 - Sleep Hours
 - Water Intake
 
-### Workflow:
+### ML Workflow:
 
 ```text
-Historical Data
+Historical Fitness Data
       ↓
-Data Preprocessing
+Data Cleaning & Preprocessing
+      ↓
+Feature Engineering
       ↓
 Model Training
       ↓
 Prediction Generation
       ↓
 JSON Output
+      ↓
+Visualization in GUI
 ```
 
 ---
@@ -171,14 +185,15 @@ Forecasts the next 14 days for:
 
 ---
 
-## Future Enhancements:
+## Future Scope:
 
-- Real-Time Fitness Tracking
-- Wearable Device Integration
+- Real-Time wearable device integration
 - Cloud Database Support
-- Mobile Application Version
-- Advanced Deep Learning Models
+- Mobile Application deployment
+- Multi-user support
+- Advanced Deep Learning-based forecasting
 - Real-Time Analytics Dashboard
+- Personalized goal-setting system
 
 ---
 
@@ -195,6 +210,14 @@ Forecasts the next 14 days for:
 ### Summary Page
 
 ![Summary Page](assets/Summarypage.jpg)
+
+---
+
+---
+
+## Documentation:
+
+![Documentation](assets/FitAura_Documentation.pdf)
 
 ---
 
