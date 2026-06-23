@@ -150,9 +150,9 @@ and then read back into the C++ application.
 
 ---
 
-## 📊 Output
+## Output:
 
-### Fitness Report
+### Fitness Report:
 
 The generated report includes:
 
@@ -186,15 +186,15 @@ Forecasts the next 14 days for:
 
 ### Welcome Page
 
-![Welcome Page](screenshots/welcome.png)
+![Welcome Page](assets/Welcomepage.png)
 
-### Dashboard
+### Homepage
 
-![Dashboard](screenshots/dashboard.png)
+![Homepage](assets/Homepage.jpg)
 
 ### Summary Page
 
-![Summary Page](screenshots/summary.png)
+![Summary Page](assets/Summarypage.jpg)
 
 ---
 
